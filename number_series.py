@@ -1,0 +1,2 @@
+#print continuos number series 
+
