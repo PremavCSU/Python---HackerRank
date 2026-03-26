@@ -27,7 +27,7 @@ Harry
 n = int(input("Enter number of studnets: "))
 student = []
 
-for i in range(n):
+for _ in range(n):
     name = input("Enter student name: ")
     scores = float(input("Enter student marks: "))
     student.append([name, scores])
